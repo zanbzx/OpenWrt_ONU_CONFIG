@@ -46,14 +46,6 @@
 			"path": "onu/iptv"
 		}
 	},
-	"admin/onu/voice": {
-		"title": "ONU Voice",
-		"order": 45,
-		"action": {
-			"type": "view",
-			"path": "onu/voice"
-		}
-	},
 	"admin/onu/diagnostics": {
 		"title": "ONU Diagnostics",
 		"order": 50,
